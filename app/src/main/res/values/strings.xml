@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Fast Notes</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="bt_salvar">Salvar</string>
+    <string name="edit_titulo">Título</string>
+</resources>
